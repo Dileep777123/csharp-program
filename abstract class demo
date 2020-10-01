@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClassDemo
 {
-     /*class University
+     
     {
         public virtual void Method1() { }
         public virtual void Method2() { }
@@ -42,7 +42,7 @@ namespace AbstractClassDemo
             University u = new University();
             MyClass my = new MyClass();
         }
-    }*/
+    }
      class One
     {
        public void OneMethod()
@@ -79,7 +79,7 @@ namespace AbstractClassDemo
     {
         public void AnimalSound()
         {
-          // dog barking sound   
+           dog barking sound   
         }
 
        public  void AnimalMovement()
